@@ -9,4 +9,4 @@ A empresa X, uma varejista online, está enfrentando dificuldades com a escalabi
 - Implementar uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente.
 
 ## Diagrama 
-![Diagrama da solução](Cópia do Arquitetura.drawio.svg)
+![Diagrama da solução](CópiadoArquitetura.drawio.svg)
